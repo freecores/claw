@@ -1,0 +1,60 @@
+Designer = "Balaji V. Iyer" ;
+company = "NCSU " ;
+
+/* Search Path variables */
+search_path ="/afs/eos.ncsu.edu/dist/cad446/local/TSMC025_deep  /afs/eos.ncsu.edu/dist/synopsys35a/packages/IEEE/lib" + search_path 
+
+/* Library Variables */
+target_library = { ncsulib25_worst.db }
+link_library = { ncsulib25_worst.db }
+symbol_library = { ncsulib25_symbols.sdb basic.sdb }
+
+/* Bus Naming variables */
+/* read_array_naming_style = "%s<%d>"
+read_array_separator_style = "><"
+gen_bus_member_naming_style = "%s<%d>"
+gen_bus_range_naming_style = "%s<%d:%d>" 
+edifin_array_range_extraction_style = "%s<%d:%d>"
+edifout_array_member_naming_style = "%s<%d>"
+edifout_array_range_naming_style = "%s<%d:%d>"
+*/
+/* IO Port variables */
+edifin_lib_in_port_symbol = "ipin"
+edifin_lib_out_port_symbol = "opin"
+edifin_lib_inout_port_symbol = "iopin"
+edifin_lib_in_osc_symbol = "iooff"
+edifin_lib_out_osc_symbol = "ooff"
+edifin_lib_inout_osc_symbol = "ioff"
+edifin_lib_logic_1_symbol = "vdd"
+edifin_lib_logic_0_symbol = "gnd"
+edifin_lib_ripper_bus = "bus_end"
+edifin_lib_route_grid = 1024
+edifin_lib_templates = {{A,landscape,Asize},{A,portrait,Asize.book},{B,landscape,Bsize},{C,landscape,Csize},{D,landscape,Dsize},{E,landscape,Esize},{F,landscape,Fsize}}
+
+/* Power and Ground Variables */
+edifin_ground_net_name = "gnd!"
+edifin_ground_net_property_name = ""
+edifin_ground_net_property_value = ""
+edifout_ground_name = "gnd"
+edifout_ground_net_name = "gnd!"
+edifout_ground_net_property_name = ""
+edifout_ground_net_property_value = ""
+edifout_ground_pin_name = "gnd!"
+edifin_power_net_name = "vdd!"
+edifin_power_net_property_name = ""
+edifin_power_net_property_value = ""
+edifout_power_name = "vdd"
+edifout_power_net_name = "vdd!"
+edifout_power_net_property_name = ""
+edifout_power_net_property_value = ""
+edifout_power_pin_name = "vdd!"
+edifout_power_and_ground_representation = "net"
+/* Net to Port Connection variables */
+edifin_autoconnect_ports = "true"
+single_group_per_sheet = "true"
+use_port_name_for_oscs = "false"
+write_name_nets_same_as_ports = "true"
+/* Output variables */
+edifout_netlist_only = "false"
+edifout_target_system = "cadence"
+edifout_instantiate_ports = "true"

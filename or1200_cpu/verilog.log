@@ -1,0 +1,306 @@
+Host command: /ncsu/cadence/ldv41/tools/verilog/bin/verilog.exe
+Command arguments:
+    or1200_defines.v
+    or1200_alu.v
+    or1200_tpram_32x32.v
+    or1200_spram_256x21.v
+    or1200_spram_1024x32.v
+    or1200_spram_1024x32_bw.v
+    or1200_spram_64x14.v
+    or1200_spram_64x22.v
+    or1200_spram_64x24.v
+    or1200_dc_fsm.v
+    or1200_dc_tag.v
+    or1200_dc_ram.v
+    or1200_dc_top.v
+    or1200_ic_fsm.v
+    or1200_ic_tag.v
+    or1200_ic_ram.v
+    or1200_ic_top.v
+    or1200_immu_tlb.v
+    or1200_immu_top.v
+    or1200_rfram_generic.v
+    or1200_spram_2048x32.v
+    or1200_qmem_top.v
+    or1200_dpram_32x32.v
+    or1200_rf.v
+    or1200_rf_top.v
+    or1200_sprs.v
+    or1200_mem2reg.v
+    or1200_reg2mem.v
+    or1200_lsu.v
+    or1200_genpc.v
+    or1200_if.v
+    or1200_ctrl.v
+    or1200_gmultp2_32x32.v
+    or1200_mult_mac.v
+    or1200_du.v
+    or1200_wbmux.v
+    or1200_except.v
+    or1200_freeze.v
+    or1200_operandmuxes.v
+    or1200_cfgr.v
+    or1200_sb_fifo.v
+    or1200_tt.v
+    or1200_wb_biu.v
+    or1200_cpu.v
+
+Tool:	VERILOG-XL	04.10.010-s log file created Aug 18, 2004  12:27:42
+Tool:	VERILOG-XL	04.10.010-s   Aug 18, 2004  12:27:42
+
+Copyright (c) 1995-2002 Cadence Design Systems, Inc.  All Rights Reserved.
+Unpublished -- rights reserved under the copyright laws of the United States.
+
+Copyright (c) 1995-2002 UNIX Systems Laboratories, Inc.  Reproduced with Permission.
+
+THIS SOFTWARE AND ON-LINE DOCUMENTATION CONTAIN CONFIDENTIAL INFORMATION
+AND TRADE SECRETS OF CADENCE DESIGN SYSTEMS, INC.  USE, DISCLOSURE, OR
+REPRODUCTION IS PROHIBITED WITHOUT THE PRIOR EXPRESS WRITTEN PERMISSION OF
+CADENCE DESIGN SYSTEMS, INC.
+RESTRICTED RIGHTS LEGEND
+
+Use, duplication, or disclosure by the Government is subject to
+restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in
+Technical Data and Computer Software clause at DFARS 252.227-7013 or
+subparagraphs (c)(1) and (2) of Commercial Computer Software -- Restricted
+Rights at 48 CFR 52.227-19, as applicable.
+
+                Cadence Design Systems, Inc.
+                555 River Oaks Parkway
+                San Jose, California  95134
+
+For technical assistance please contact the Cadence Response Center at
+1-877-CDS-4911 or send email to support@cadence.com
+
+For more information on Cadence's Verilog-XL product line send email to
+talkv@cadence.com
+
+Compiling source file "or1200_defines.v"
+Compiling source file "or1200_alu.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_alu.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_alu.v"
+Compiling source file "or1200_tpram_32x32.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_tpram_32x32.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_tpram_32x32.v"
+Compiling source file "or1200_spram_256x21.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_spram_256x21.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_spram_256x21.v"
+Compiling source file "or1200_spram_1024x32.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_spram_1024x32.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_spram_1024x32.v"
+Compiling source file "or1200_spram_1024x32_bw.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_spram_1024x32_bw.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_spram_1024x32_bw.v"
+Compiling source file "or1200_spram_64x14.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_spram_64x14.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_spram_64x14.v"
+Compiling source file "or1200_spram_64x22.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_spram_64x22.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_spram_64x22.v"
+Compiling source file "or1200_spram_64x24.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_spram_64x24.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_spram_64x24.v"
+Compiling source file "or1200_dc_fsm.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_dc_fsm.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_dc_fsm.v"
+Compiling source file "or1200_dc_tag.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_dc_tag.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_dc_tag.v"
+Compiling source file "or1200_dc_ram.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_dc_ram.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_dc_ram.v"
+Compiling source file "or1200_dc_top.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_dc_top.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_dc_top.v"
+Compiling source file "or1200_ic_fsm.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_ic_fsm.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_ic_fsm.v"
+Compiling source file "or1200_ic_tag.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_ic_tag.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_ic_tag.v"
+Compiling source file "or1200_ic_ram.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_ic_ram.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_ic_ram.v"
+Compiling source file "or1200_ic_top.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_ic_top.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_ic_top.v"
+Compiling source file "or1200_immu_tlb.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_immu_tlb.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_immu_tlb.v"
+Compiling source file "or1200_immu_top.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_immu_top.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_immu_top.v"
+Compiling source file "or1200_rfram_generic.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_rfram_generic.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_rfram_generic.v"
+Compiling source file "or1200_spram_2048x32.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_spram_2048x32.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_spram_2048x32.v"
+Compiling source file "or1200_qmem_top.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_qmem_top.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_qmem_top.v"
+Compiling source file "or1200_dpram_32x32.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_dpram_32x32.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_dpram_32x32.v"
+Compiling source file "or1200_rf.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_rf.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_rf.v"
+Compiling source file "or1200_rf_top.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_rf_top.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_rf_top.v"
+Compiling source file "or1200_sprs.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_sprs.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_sprs.v"
+Compiling source file "or1200_mem2reg.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_mem2reg.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_mem2reg.v"
+Compiling source file "or1200_reg2mem.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_reg2mem.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_reg2mem.v"
+Compiling source file "or1200_lsu.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_lsu.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_lsu.v"
+Compiling source file "or1200_genpc.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_genpc.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_genpc.v"
+Compiling source file "or1200_if.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_if.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_if.v"
+Compiling source file "or1200_ctrl.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_ctrl.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_ctrl.v"
+Compiling source file "or1200_gmultp2_32x32.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_gmultp2_32x32.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_gmultp2_32x32.v"
+Compiling source file "or1200_mult_mac.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_mult_mac.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_mult_mac.v"
+Compiling source file "or1200_du.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_du.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_du.v"
+Compiling source file "or1200_wbmux.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_wbmux.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_wbmux.v"
+Compiling source file "or1200_except.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_except.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_except.v"
+Compiling source file "or1200_freeze.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_freeze.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_freeze.v"
+Compiling source file "or1200_operandmuxes.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_operandmuxes.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_operandmuxes.v"
+Compiling source file "or1200_cfgr.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_cfgr.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_cfgr.v"
+Compiling source file "or1200_sb_fifo.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_sb_fifo.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_sb_fifo.v"
+Compiling source file "or1200_tt.v"
+Compiling source file "or1200_wb_biu.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_wb_biu.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_wb_biu.v"
+Compiling source file "or1200_cpu.v"
+Compiling included source file "timescale.v"
+Continuing compilation of source file "or1200_cpu.v"
+Compiling included source file "or1200_defines.v"
+Continuing compilation of source file "or1200_cpu.v"
+Highest level modules:
+or1200_tpram_32x32
+or1200_spram_64x24
+or1200_dc_top
+or1200_ic_top
+or1200_immu_top
+or1200_rfram_generic
+or1200_qmem_top
+or1200_du
+or1200_sb_fifo
+or1200_tt
+or1200_wb_biu
+or1200_cpu
+
+0 simulation events (use +profile or +listcounts option to count)
+CPU time: 0.9 secs to compile + 0.5 secs to link + 0.0 secs in simulation
+End of Tool:	VERILOG-XL	04.10.010-s   Aug 18, 2004  12:28:41

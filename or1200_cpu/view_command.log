@@ -1,0 +1,28 @@
+
+                        Design Analyzer (TM)
+                      Behavioral Compiler (TM)
+                        DC Professional (TM)
+                           DC Expert (TM)
+                            DC Ultra (TM)
+                         VHDL Compiler (TM)
+                          HDL Compiler (TM)
+                        Library Compiler (TM)
+                         Power Compiler (TM)
+                          DFT Compiler (TM)
+                            BSD Compiler
+                      DesignWare Developer (TM)
+                          DesignPower (TM)
+
+            Version 2001.08 for sparcOS5 -- Aug 08, 2001
+              Copyright (c) 1988-2001 by Synopsys, Inc.
+                         ALL RIGHTS RESERVED
+design_analyzer> include or1200_cpu.sc > output.dat
+1
+design_analyzer> create_schematic -size infinite    -gen_database 
+Loading db file '/afs/eos.ncsu.edu/dist/cad446/local/TSMC025_deep/generic.sdb'
+Loading db file '/afs/eos.ncsu.edu/dist/cad446/local/TSMC025_deep/ncsulib25_symbols.sdb'
+Loading db file '/afs/eos.ncsu.edu/dist/cad446/local/TSMC025_deep/basic.sdb'
+Loading db file '/afs/bp.ncsu.edu/dist/synopsys200108/libraries/syn/1_25.font'
+1
+design_analyzer> 
+Thank you...
